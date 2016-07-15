@@ -178,10 +178,29 @@
     "PromptNameOnAddElement": true,
     "DefaultWPFApplication": null,
     "UseLegacySilverlightFindLogic": false,
+<<<<<<< HEAD
     "ProjectGuid": "841ae345-3c22-41ec-9049-5aa6a8b64e35",
     "SourceControlRepository": null,
     "IsOnline": false,
     "ProjectLanguage": 2,
+=======
+    "ProjectGuid": "e3dbdbd7-0eaf-4c2f-9ee3-e4194ac740d7",
+    "SourceControlRepository": {
+      "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitRepositoryInfo",
+      "__value": {
+        "RemotePath": "https://github.com/kalchev/friendly-octo-guacamole.git",
+        "ServerInfo": {
+          "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitServerInfo",
+          "__value": {
+            "ServerName": "https://github.com/kalchev/friendly-octo-guacamole.git"
+          }
+        },
+        "ServerType": 2
+      }
+    },
+    "IsOnline": true,
+    "ProjectLanguage": 1,
+>>>>>>> master
     "ProjectReferences": [
       "System",
       "System.Core",
@@ -195,8 +214,13 @@
     "ScheduleServerUrl": "http://localhost:8009",
     "IsScheduleServerRemote": false,
     "ProjectVersion": "2016.2.610.0",
+<<<<<<< HEAD
     "Namespace": "TestProject34",
     "AssemblyName": "TestProject34",
+=======
+    "Namespace": "friendly_octo_guacamole",
+    "AssemblyName": "friendly-octo-guacamole",
+>>>>>>> master
     "OutputFolder": "bin",
     "ExcludedFiles": [],
     "DisabledTranslators": [],
