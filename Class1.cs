@@ -9,7 +9,7 @@ namespace friendly_octo_guacamole
     {
         private void Test()
         {
-            //
+            // test
         }
     }
 }
