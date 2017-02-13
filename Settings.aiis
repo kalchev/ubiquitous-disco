@@ -178,10 +178,29 @@
     "PromptNameOnAddElement": true,
     "DefaultWPFApplication": null,
     "UseLegacySilverlightFindLogic": false,
+<<<<<<< HEAD
     "ProjectGuid": "6baa7e74-c14d-4bab-957b-06910eff5327",
     "SourceControlRepository": null,
     "IsOnline": false,
     "ProjectLanguage": 2,
+=======
+    "ProjectGuid": "a44de43c-36fd-42f8-b627-6fb840d1ffe5",
+    "SourceControlRepository": {
+      "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitRepositoryInfo",
+      "__value": {
+        "RemotePath": "https://github.com/kalchev/ubiquitous-disco.git",
+        "ServerInfo": {
+          "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitServerInfo",
+          "__value": {
+            "ServerName": "https://github.com/kalchev/ubiquitous-disco.git"
+          }
+        },
+        "ServerType": 2
+      }
+    },
+    "IsOnline": true,
+    "ProjectLanguage": 1,
+>>>>>>> master
     "ProjectReferences": [
       "System",
       "System.Core",
@@ -192,11 +211,19 @@
       "Telerik.WebAii.Controls.Xaml.Wpf, Version=2012.1.719.0, Culture=neutral, PublicKeyToken=528163f3e645de45",
       "Telerik.TestingFramework.Controls.KendoUI, Version=2012.1.322.0, Culture=neutral, PublicKeyToken=528163f3e645de45"
     ],
+<<<<<<< HEAD
     "ScheduleServerUrl": "http://kalchev-vm:8009/",
     "IsScheduleServerRemote": true,
     "ProjectVersion": "2017.1.116.0",
     "Namespace": "TestProject110",
     "AssemblyName": "TestProject110",
+=======
+    "ScheduleServerUrl": "http://localhost:8009",
+    "IsScheduleServerRemote": false,
+    "ProjectVersion": "2017.1.116.0",
+    "Namespace": "TestProject113",
+    "AssemblyName": "TestProject113",
+>>>>>>> master
     "OutputFolder": "bin",
     "ExcludedFiles": [],
     "DisabledTranslators": [],
