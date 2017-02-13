@@ -178,10 +178,22 @@
     "PromptNameOnAddElement": true,
     "DefaultWPFApplication": null,
     "UseLegacySilverlightFindLogic": false,
-    "ProjectGuid": "8c33bc94-0ccb-4db0-b0d7-9b0bd090a03f",
-    "SourceControlRepository": null,
-    "IsOnline": false,
-    "ProjectLanguage": 2,
+    "ProjectGuid": "a44de43c-36fd-42f8-b627-6fb840d1ffe5",
+    "SourceControlRepository": {
+      "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitRepositoryInfo",
+      "__value": {
+        "RemotePath": "https://github.com/kalchev/ubiquitous-disco.git",
+        "ServerInfo": {
+          "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitServerInfo",
+          "__value": {
+            "ServerName": "https://github.com/kalchev/ubiquitous-disco.git"
+          }
+        },
+        "ServerType": 2
+      }
+    },
+    "IsOnline": true,
+    "ProjectLanguage": 1,
     "ProjectReferences": [
       "System",
       "System.Core",
@@ -195,8 +207,8 @@
     "ScheduleServerUrl": "http://localhost:8009",
     "IsScheduleServerRemote": false,
     "ProjectVersion": "2017.1.116.0",
-    "Namespace": "TestProject114",
-    "AssemblyName": "TestProject114",
+    "Namespace": "TestProject113",
+    "AssemblyName": "TestProject113",
     "OutputFolder": "bin",
     "ExcludedFiles": [],
     "DisabledTranslators": [],
