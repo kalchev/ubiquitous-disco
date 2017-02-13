@@ -178,6 +178,7 @@
     "PromptNameOnAddElement": true,
     "DefaultWPFApplication": null,
     "UseLegacySilverlightFindLogic": false,
+<<<<<<< HEAD
     "ProjectGuid": "3193e495-716c-40a2-a168-edf3f84be307",
     "SourceControlRepository": null,
     "IsOnline": false,
@@ -187,6 +188,29 @@
       "System.Core",
       "ArtOfTest.WebAii, Version=2017.1.116.0, Culture=neutral, PublicKeyToken=4fd5f65be123776c",
       "ArtOfTest.WebAii.Design, Version=2017.1.116.0, Culture=neutral, PublicKeyToken=4fc62bbc3827ab1d",
+=======
+    "ProjectGuid": "841ae345-3c22-41ec-9049-5aa6a8b64e35",
+    "SourceControlRepository": {
+      "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitRepositoryInfo",
+      "__value": {
+        "RemotePath": "https://github.com/kalchev/ubiquitous-disco.git",
+        "ServerInfo": {
+          "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitServerInfo",
+          "__value": {
+            "ServerName": "https://github.com/kalchev/ubiquitous-disco.git"
+          }
+        },
+        "ServerType": 2
+      }
+    },
+    "IsOnline": true,
+    "ProjectLanguage": 1,
+    "ProjectReferences": [
+      "System",
+      "System.Core",
+      "ArtOfTest.WebAii, Version=2016.2.610.0, Culture=neutral, PublicKeyToken=4fd5f65be123776c",
+      "ArtOfTest.WebAii.Design, Version=2016.2.610.0, Culture=neutral, PublicKeyToken=4fc62bbc3827ab1d",
+>>>>>>> master
       "Telerik.WebAii.Controls.Html, Version=2012.1.411.0, Culture=neutral, PublicKeyToken=528163f3e645de45",
       "Telerik.WebAii.Controls.Xaml, Version=2012.1.719.0, Culture=neutral, PublicKeyToken=528163f3e645de45",
       "Telerik.WebAii.Controls.Xaml.Wpf, Version=2012.1.719.0, Culture=neutral, PublicKeyToken=528163f3e645de45",
@@ -194,9 +218,15 @@
     ],
     "ScheduleServerUrl": "http://localhost:8009",
     "IsScheduleServerRemote": false,
+<<<<<<< HEAD
     "ProjectVersion": "2017.1.116.0",
     "Namespace": "TestProject112",
     "AssemblyName": "TestProject112",
+=======
+    "ProjectVersion": "2016.3.919.0",
+    "Namespace": "TestProject34",
+    "AssemblyName": "TestProject34",
+>>>>>>> master
     "OutputFolder": "bin",
     "ExcludedFiles": [],
     "DisabledTranslators": [],
